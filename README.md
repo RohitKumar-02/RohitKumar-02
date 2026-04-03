@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Rohit Kumar Rawat
 
-<!--
-**RohitKumar-02/RohitKumar-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 UI/UX Designer  
+📍 India  
 
-Here are some ideas to get you started:
+I design simple, clean and user-friendly digital experiences.
+Currently building real-world UI/UX projects and improving my design skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+- User Research
+- Wireframing
+- Prototyping
+- Interaction Design
+- Design Systems
+
+## 🛠 Tools
+Figma | Canva | GitHub
+
+## 🚀 Projects
+Coming Soon...
+
+## 📫 Contact
+Email: rajrohit4525@gmail.com
